@@ -2,6 +2,7 @@ The Rainbow and the unicorn :
 purple 
 pink 
 blue
+indigo
 ehh
 unicorn
 red 
